@@ -4,6 +4,8 @@ about:
   id: me
   template: broadside
   image: photo.jpg
+files:
+  resume: "C:/Users/allee/Documents/GitHub/DACSS-604-Assignment-4/Coombe resume 12.24.pdf"
 ---
 
 :::{#me}
@@ -14,6 +16,8 @@ about:
 
 
 ## Experience
-[View the PDF](C:/Users/allee/Documents/GitHub/DACSS-604-Assignment-4/Coombe resume 12.24.pdf)
+
+[Download My Resume](resume)
+
 
 :::
