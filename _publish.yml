@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: c8eeb357-9f3d-4e0b-bdeb-5a86c642a750
+      url: 'https://accoombe.quarto.pub/alexandria-coombe'

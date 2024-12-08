@@ -8,16 +8,37 @@ files:
   resume: "Coombe resume 12.24.pdf"
 ---
 
-:::{#me}
+::: {#me}
 
-## Goals
+**About Alexandria Coombe**
 
-## Education
+# Education
 
+## Master of Science in Data Analytics and Computational Social Science
+
+### University of Massachusetts Amherst
+
+Cumulative GPA: 4.0/4.0
+
+Expected Graduation Date: December 2024
+
+## Bachelor of Science in Political Science
+
+### State University of New York (SUNY) College at Buffalo
+
+Cumulative GPA: 4.0/4.0
+
+Graduated: May 2023
+
+## Associate of Science in Merchandising and Management
+
+### Berkeley College, New York, NY
+
+Cumulative GPA: 3.8/4.0
+
+Graduated: May 2017
 
 ## Experience
 
-[Download My Resume](resume)
-
-
+![](Resume.PNG)
 :::
