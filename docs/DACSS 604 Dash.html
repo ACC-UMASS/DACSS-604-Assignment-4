@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Projects – Alexandria Coombe</title>
+<title>Alexandria Coombe Dashboard – Alexandria Coombe</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -19,6 +19,40 @@ ul.task-list li input[type="checkbox"] {
   width: 0.8em;
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
+}
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { display: inline-block; text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
 </style>
 
@@ -92,7 +126,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./projects.html" aria-current="page"> 
+    <a class="nav-link" href="./projects.html"> 
 <span class="menu-text">Projects</span></a>
   </li>  
 </ul>
@@ -112,7 +146,13 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#project-1" id="toc-project-1" class="nav-link active" data-scroll-target="#project-1">Project 1</a></li>
+  <li><a href="#intro" id="toc-intro" class="nav-link active" data-scroll-target="#intro">Intro</a></li>
+  <li><a href="#column" id="toc-column" class="nav-link" data-scroll-target="#column">Column</a>
+  <ul class="collapse">
+  <li><a href="#univariate-categorical-plot" id="toc-univariate-categorical-plot" class="nav-link" data-scroll-target="#univariate-categorical-plot">Univariate Categorical Plot</a></li>
+  <li><a href="#choropleth-map" id="toc-choropleth-map" class="nav-link" data-scroll-target="#choropleth-map">Choropleth Map</a></li>
+  <li><a href="#references" id="toc-references" class="nav-link" data-scroll-target="#references">References</a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
@@ -121,7 +161,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Projects</h1>
+<h1 class="title">Alexandria Coombe Dashboard</h1>
 </div>
 
 
@@ -138,16 +178,52 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="project-1" class="level2">
-<h2 class="anchored" data-anchor-id="project-1">Project 1</h2>
-<p>“Liberalization of State Cannabis Policies Results in Decreased Crime but Significant Variation” By: Alexandria Coombe</p>
-<section id="github-repository-visualizations-dataset" class="level4">
-<h4 class="anchored" data-anchor-id="github-repository-visualizations-dataset">Github repository visualizations &amp; dataset</h4>
-<p>https://github.com/ACC-UMASS/FinalProject-690V.git</p>
+<section id="intro" class="level2 sidebar">
+<h2 class="sidebar anchored" data-anchor-id="intro">Intro</h2>
+<p>DACSS 604 Assignment Four</p>
+<p>You can find the code for the plot &amp; map here: https://github.com/ACC-UMASS/FinalProject-690V</p>
 </section>
-<section id="description" class="level4">
-<h4 class="anchored" data-anchor-id="description">Description</h4>
-<p>I have been conducting research to discover whether the liberalization of cannabis laws across the United States has had an impact on crime rates. I have been working on a new/updated dataset throughout the semester. I have conducted new analyses, edited my paper extensively, and furthered the research that I have included here. I have included the github repository to some of the visualizations prior to the changes that I have made for the DACSS 604 final project. #### Description of original project/research The liberalization of cannabis laws, although a relatively new occurrence, is gaining popularity in the United States. Currently, the recreational use of cannabis has been legalized in twenty-four states and Washington D.C. The legalization of recreational cannabis is being considered at the federal level as well; however, it lacks bipartisan support. The legalization of recreational cannabis often follows the medicinal legalization and decriminalization of marijuana in many states. I seek to discover how crime rates are influenced by states that have liberalized their cannabis laws by legalizing medicinal cannabis, decriminalizing cannabis, and/or legalizing recreational cannabis. Much of the existing literature on this topic has suffered from a lack of data, hindering the ability of researchers to come to strong conclusions. Few studies have found a statistically significant relationship between the legalization of recreational cannabis and a decrease in various crime rates, while others found no change in crime rates following the liberalization of cannabis laws. Several studies found that the liberalization of cannabis policies resulted in a decrease in violent crime, property crime, and theft. The addition of new and more extensive data examined over a longer span of time will aid in obtaining sound scientific results.</p>
+<section id="column" class="level2 tabset tabset-fade">
+<h2 class="tabset tabset-fade anchored" data-anchor-id="column">Column</h2>
+<section id="univariate-categorical-plot" class="level3">
+<h3 class="anchored" data-anchor-id="univariate-categorical-plot">Univariate Categorical Plot</h3>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">readRDS</span>(<span class="st">"liberalization2020PercentFinal.RDS"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output-display">
+<div>
+<figure class="figure">
+<p><img src="DACSS-604-Dash_files/figure-html/unnamed-chunk-1-1.png" class="img-fluid figure-img" width="672"></p>
+</figure>
+</div>
+</div>
+</div>
+<p>Status of cannabis laws for the year 2020.</p>
+</section>
+<section id="choropleth-map" class="level3">
+<h3 class="anchored" data-anchor-id="choropleth-map">Choropleth Map</h3>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb2"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="fu">readRDS</span>(<span class="st">"mapFinal.RDS"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output-display">
+<div>
+<figure class="figure">
+<p><img src="DACSS-604-Dash_files/figure-html/unnamed-chunk-2-1.png" class="img-fluid figure-img" width="672"></p>
+</figure>
+</div>
+</div>
+</div>
+<p>This map shows the crime rates per 100,000 residents in all fifty states for the year 2020.</p>
+</section>
+<section id="references" class="level3">
+<h3 class="anchored" data-anchor-id="references">References</h3>
+<p>I created the cannabisData2020 dataset that was utilized for these plots. The data was collected from the following sources:</p>
+<ul>
+<li>FBI Uniform Crime Reporting program</li>
+<li>The FBI Crime Data Explorer</li>
+<li>The United States Department of Justice</li>
+<li>The Drug Enforcement Administration</li>
+<li>Each state’s government website</li>
+<li>The Federal Bureau of Prisons</li>
+</ul>
 
 
 </section>

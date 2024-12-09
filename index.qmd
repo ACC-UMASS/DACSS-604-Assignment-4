@@ -43,4 +43,7 @@ Graduated: May 2017
 ### Experience
 #### Resume
 [Download My Resume](https://github.com/ACC-UMASS/DACSS-604-Assignment-4/blob/aa55f63deb6c59d43214d375e59dadc6a490d964/Coombe%20resume%2012.24.pdf)
+
+#### Dashboard
+[Click Here to View my Dashboard](https://github.com/ACC-UMASS/DACSS-604-Assignment-4/blob/86338dd79ce6b84828d4bceca7addc111a6671c6/DACSS%20604%20Dash.Rmd)
 :::

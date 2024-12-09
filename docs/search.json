@@ -18,7 +18,7 @@
     "href": "index.html",
     "title": "About Me",
     "section": "",
-    "text": "About Alexandria Coombe\nThroughout my undergraduate and graduate studies I have focused on policy research and data analysis. My interests span areas including prison reform, climate change, agriculture, education, and other state and federal social policies. I received my bachelor’s degree in political science in 2023, and I will be completing my master’s in data analytics and computational social science in December 2024. I am passionate about creating policy for the people that is supported by data rather than opinions.\n\n\n\n\n\n\nCumulative GPA: 4.0/4.0\nExpected Graduation Date: December 2024\n\n\n\n\n\n\nCumulative GPA: 4.0/4.0\nGraduated: May 2023\n\n\n\n\n\n\nCumulative GPA: 3.8/4.0\nGraduated: May 2017\n\n\n\n\n\n\nDownload My Resume"
+    "text": "About Alexandria Coombe\nThroughout my undergraduate and graduate studies I have focused on policy research and data analysis. My interests span areas including prison reform, climate change, agriculture, education, and other state and federal social policies. I received my bachelor’s degree in political science in 2023, and I will be completing my master’s in data analytics and computational social science in December 2024. I am passionate about creating policy for the people that is supported by data rather than opinions.\n\n\n\n\n\n\nCumulative GPA: 4.0/4.0\nExpected Graduation Date: December 2024\n\n\n\n\n\n\nCumulative GPA: 4.0/4.0\nGraduated: May 2023\n\n\n\n\n\n\nCumulative GPA: 3.8/4.0\nGraduated: May 2017\n\n\n\n\n\n\nDownload My Resume\n\n\n\nClick Here to View my Dashboard"
   },
   {
     "objectID": "index.html#experience",
@@ -53,20 +53,41 @@
     "href": "index.html#education",
     "title": "About Me",
     "section": "",
-    "text": "Cumulative GPA: 4.0/4.0\nExpected Graduation Date: December 2024\n\n\n\n\n\n\nCumulative GPA: 4.0/4.0\nGraduated: May 2023\n\n\n\n\n\n\nCumulative GPA: 3.8/4.0\nGraduated: May 2017\n\n\n\n\n\n\nDownload My Resume"
+    "text": "Cumulative GPA: 4.0/4.0\nExpected Graduation Date: December 2024\n\n\n\n\n\n\nCumulative GPA: 4.0/4.0\nGraduated: May 2023\n\n\n\n\n\n\nCumulative GPA: 3.8/4.0\nGraduated: May 2017\n\n\n\n\n\n\nDownload My Resume\n\n\n\nClick Here to View my Dashboard"
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "This is a project that I worked on"
+    "text": "“Liberalization of State Cannabis Policies Results in Decreased Crime but Significant Variation” By: Alexandria Coombe\n\n\nhttps://github.com/ACC-UMASS/FinalProject-690V.git\n\n\n\nI have been conducting research to discover whether the liberalization of cannabis laws across the United States has had an impact on crime rates. I have been working on a new/updated dataset throughout the semester. I have conducted new analyses, edited my paper extensively, and furthered the research that I have included here. I have included the github repository to some of the visualizations prior to the changes that I have made for the DACSS 604 final project. #### Description of original project/research The liberalization of cannabis laws, although a relatively new occurrence, is gaining popularity in the United States. Currently, the recreational use of cannabis has been legalized in twenty-four states and Washington D.C. The legalization of recreational cannabis is being considered at the federal level as well; however, it lacks bipartisan support. The legalization of recreational cannabis often follows the medicinal legalization and decriminalization of marijuana in many states. I seek to discover how crime rates are influenced by states that have liberalized their cannabis laws by legalizing medicinal cannabis, decriminalizing cannabis, and/or legalizing recreational cannabis. Much of the existing literature on this topic has suffered from a lack of data, hindering the ability of researchers to come to strong conclusions. Few studies have found a statistically significant relationship between the legalization of recreational cannabis and a decrease in various crime rates, while others found no change in crime rates following the liberalization of cannabis laws. Several studies found that the liberalization of cannabis policies resulted in a decrease in violent crime, property crime, and theft. The addition of new and more extensive data examined over a longer span of time will aid in obtaining sound scientific results."
   },
   {
     "objectID": "projects.html#project-1",
     "href": "projects.html#project-1",
     "title": "Projects",
     "section": "",
-    "text": "This is a project that I worked on"
+    "text": "“Liberalization of State Cannabis Policies Results in Decreased Crime but Significant Variation” By: Alexandria Coombe\n\n\nhttps://github.com/ACC-UMASS/FinalProject-690V.git\n\n\n\nI have been conducting research to discover whether the liberalization of cannabis laws across the United States has had an impact on crime rates. I have been working on a new/updated dataset throughout the semester. I have conducted new analyses, edited my paper extensively, and furthered the research that I have included here. I have included the github repository to some of the visualizations prior to the changes that I have made for the DACSS 604 final project. #### Description of original project/research The liberalization of cannabis laws, although a relatively new occurrence, is gaining popularity in the United States. Currently, the recreational use of cannabis has been legalized in twenty-four states and Washington D.C. The legalization of recreational cannabis is being considered at the federal level as well; however, it lacks bipartisan support. The legalization of recreational cannabis often follows the medicinal legalization and decriminalization of marijuana in many states. I seek to discover how crime rates are influenced by states that have liberalized their cannabis laws by legalizing medicinal cannabis, decriminalizing cannabis, and/or legalizing recreational cannabis. Much of the existing literature on this topic has suffered from a lack of data, hindering the ability of researchers to come to strong conclusions. Few studies have found a statistically significant relationship between the legalization of recreational cannabis and a decrease in various crime rates, while others found no change in crime rates following the liberalization of cannabis laws. Several studies found that the liberalization of cannabis policies resulted in a decrease in violent crime, property crime, and theft. The addition of new and more extensive data examined over a longer span of time will aid in obtaining sound scientific results."
+  },
+  {
+    "objectID": "DACSS 604 Dash.html",
+    "href": "DACSS 604 Dash.html",
+    "title": "Alexandria Coombe Dashboard",
+    "section": "",
+    "text": "DACSS 604 Assignment Four\nYou can find the code for the plot & map here: https://github.com/ACC-UMASS/FinalProject-690V"
+  },
+  {
+    "objectID": "DACSS 604 Dash.html#intro",
+    "href": "DACSS 604 Dash.html#intro",
+    "title": "Alexandria Coombe Dashboard",
+    "section": "",
+    "text": "DACSS 604 Assignment Four\nYou can find the code for the plot & map here: https://github.com/ACC-UMASS/FinalProject-690V"
+  },
+  {
+    "objectID": "DACSS 604 Dash.html#column",
+    "href": "DACSS 604 Dash.html#column",
+    "title": "Alexandria Coombe Dashboard",
+    "section": "Column",
+    "text": "Column\n\nUnivariate Categorical Plot\n\nreadRDS(\"liberalization2020PercentFinal.RDS\")\n\n\n\n\n\n\n\n\nStatus of cannabis laws for the year 2020.\n\n\nChoropleth Map\n\nreadRDS(\"mapFinal.RDS\")\n\n\n\n\n\n\n\n\nThis map shows the crime rates per 100,000 residents in all fifty states for the year 2020.\n\n\nReferences\nI created the cannabisData2020 dataset that was utilized for these plots. The data was collected from the following sources:\n\nFBI Uniform Crime Reporting program\nThe FBI Crime Data Explorer\nThe United States Department of Justice\nThe Drug Enforcement Administration\nEach state’s government website\nThe Federal Bureau of Prisons"
   }
 ]

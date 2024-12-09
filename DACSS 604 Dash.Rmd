@@ -15,7 +15,7 @@ library(flexdashboard)
 DACSS 604
 Assignment Four
 
-You can find the code for this dashboard here:
+You can find the code for the plot & map here:
 https://github.com/ACC-UMASS/FinalProject-690V
 
 ## Column {.tabset .tabset-fade}
@@ -26,12 +26,15 @@ https://github.com/ACC-UMASS/FinalProject-690V
 readRDS("liberalization2020PercentFinal.RDS")
 ```
 
+Status of cannabis laws for the year 2020. 
 
 ### Choropleth Map
 
 ```{r}
 readRDS("mapFinal.RDS")
 ```
+
+This map shows the crime rates per 100,000 residents in all fifty states for the year 2020. 
 
 ### References
 
