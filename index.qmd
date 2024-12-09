@@ -12,33 +12,35 @@ files:
 
 **About Alexandria Coombe**
 
-# Education
+Throughout my undergraduate and graduate studies I have focused on policy research and data analysis. My interests span areas including prison reform, climate change, agriculture, education, and other state and federal social policies. I received my bachelor's degree in political science in 2023, and I will be completing my master's in data analytics and computational social science in December 2024. I am passionate about creating policy for the people that is supported by data rather than opinions. 
 
-## Master of Science in Data Analytics and Computational Social Science
+## Education
 
-### University of Massachusetts Amherst
+### Master of Science in Data Analytics and Computational Social Science
+
+#### University of Massachusetts Amherst
 
 Cumulative GPA: 4.0/4.0
 
 Expected Graduation Date: December 2024
 
-## Bachelor of Science in Political Science
+### Bachelor of Science in Political Science
 
-### State University of New York (SUNY) College at Buffalo
+#### State University of New York (SUNY) College at Buffalo
 
 Cumulative GPA: 4.0/4.0
 
 Graduated: May 2023
 
-## Associate of Science in Merchandising and Management
+### Associate of Science in Merchandising and Management
 
-### Berkeley College, New York, NY
+#### Berkeley College, New York, NY
 
 Cumulative GPA: 3.8/4.0
 
 Graduated: May 2017
 
-## Experience
-
-![](Resume.PNG)
+### Experience
+#### Resume
+[Download My Resume](https://github.com/ACC-UMASS/DACSS-604-Assignment-4/blob/aa55f63deb6c59d43214d375e59dadc6a490d964/Coombe%20resume%2012.24.pdf)
 :::

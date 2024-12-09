@@ -3,7 +3,8 @@ title: "Projects"
 ---
 
 ## Project 1
+#### Github repository visualizations & dataset
+https://github.com/ACC-UMASS/FinalProject-690V.git
 
-## Project 2
 
-## Project 3
+This is a project that I worked on 
