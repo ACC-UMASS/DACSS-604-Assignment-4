@@ -12,6 +12,9 @@ library(flexdashboard)
 
 ## Intro {.sidebar}
 
+DACSS 604
+Assignment Four
+
 You can find the code for this dashboard here:
 https://github.com/ACC-UMASS/FinalProject-690V
 
@@ -24,27 +27,11 @@ readRDS("liberalization2020PercentFinal.RDS")
 ```
 
 
-### Univariate Numerical Plot
-
-```{r}
-readRDS("crimeRate2020Final.RDS") 
-```
-
-
-### Bivariate Plot
-
-
-```{r}
-readRDS("bivariatePlotFinal.RDS")
-```
-
-
 ### Choropleth Map
 
 ```{r}
 readRDS("mapFinal.RDS")
 ```
-
 
 ### References
 
