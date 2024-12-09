@@ -3,8 +3,16 @@ title: "Projects"
 ---
 
 ## Project 1
+
+"Liberalization of State Cannabis Policies Results in Decreased Crime but Significant Variation"
+By: Alexandria Coombe
+
 #### Github repository visualizations & dataset
 https://github.com/ACC-UMASS/FinalProject-690V.git
 
+#### Description
+I have been conducting research to discover whether the liberalization of cannabis laws across the United States has had an impact on crime rates. I have been working on a new/updated dataset throughout the semester. I have conducted new analyses, edited my paper extensively, and furthered the research that I have included here. I have included the github repository to some of the visualizations prior to the changes that I have made for the DACSS 604 final project. 
+#### Description of original project/research
+The liberalization of cannabis laws, although a relatively new occurrence, is gaining popularity in the United States. Currently, the recreational use of cannabis has been legalized in twenty-four states and Washington D.C. The legalization of recreational cannabis is being considered at the federal level as well; however, it lacks bipartisan support. The legalization of recreational cannabis often follows the medicinal legalization and decriminalization of marijuana in many states. I seek to discover how crime rates are influenced by states that have liberalized their cannabis laws by legalizing medicinal cannabis, decriminalizing cannabis, and/or legalizing recreational cannabis. Much of the existing literature on this topic has suffered from a lack of data, hindering the ability of researchers to come to strong conclusions. Few studies have found a statistically significant relationship between the legalization of recreational cannabis and a decrease in various crime rates, while others found no change in crime rates following the liberalization of cannabis laws. Several studies found that the liberalization of cannabis policies resulted in a decrease in violent crime, property crime, and theft. The addition of new and more extensive data examined over a longer span of time will aid in obtaining sound scientific results. 
 
-This is a project that I worked on 
+
